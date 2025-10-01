@@ -25,7 +25,7 @@ const greeting = {
   subTitle:
     "A passionate individual who always thrives to work on end to end products which develop sustainable and scalable social and technical systems to create impact.",
   resumeLink:
-    "https://drive.google.com/file/d/1dhMNdGBYec56gue37cij9aa9TQAKS_wu/view?usp=sharing",
+    "https://drive.google.com/file/d/1G9MJjCmtH_DO7PRDEtNCB1OpHZXhe-Hj/view?usp=sharing",
   portfolio_repository: "https://github.com/Horace-Jacob",
   githubProfile: "https://github.com/Horace-Jacob",
 };
@@ -48,14 +48,14 @@ const socialMediaLinks = [
   },
   {
     name: "LinkedIn",
-    link: "https://www.linkedin.com/in/lwin-oo-naing/",
+    link: "https://www.linkedin.com/in/lwin-naing/",
     fontAwesomeIcon: "fa-linkedin-in", // Reference https://fontawesome.com/icons/linkedin-in?style=brands
     backgroundColor: "#0077B5", // Reference https://simpleicons.org/?q=linkedin
   },
 
   {
     name: "Gmail",
-    link: "mailto:lwinoonaing806@gmail.com",
+    link: "mailto:lwinoo.naing.301@gmail.com",
     fontAwesomeIcon: "fa-google", // Reference https://fontawesome.com/icons/google?style=brands
     backgroundColor: "#D14836", // Reference https://simpleicons.org/?q=gmail
   },
@@ -406,7 +406,7 @@ const experience = {
           company: "Intelance",
           company_url: "https://www.intelance.co.uk/",
           logo_path: "intelance_logo.jpeg",
-          duration: "September 2023 - April 2024",
+          duration: "September 2023 - September 2025",
           location: "London, England, UK",
           description: `
             Served as Feature Lead for a Digital Health Platform, overseeing development of both frontend and backend components.
@@ -453,7 +453,7 @@ ensuring secure user access and data protection`,
           company: "Mizohla",
           company_url: "",
           logo_path: "no_img.png",
-          duration: "June 2021 - April 2021",
+          duration: "June 2021 - April 2022",
           location: "Remote",
           description: `
             Spearheaded the implementation of song API for national songs and full text search
@@ -511,7 +511,7 @@ const publications = {
 const contactPageData = {
   contactSection: {
     title: "Contact Me",
-    profile_image_path: "profile_img.png",
+    profile_image_path: "LinkedInPP-NoBg.png",
     description:
       "I am available on GitHub, LinkedIn and Email. You can message me, I will reply within 24 hours. I can help you with Frontend, Backend and Full Stack Development.",
   },
